@@ -1,0 +1,17 @@
+.genreButton {
+  width: 120px;
+  padding: 10px 15px;
+  margin: 4px;
+  background-color: rgba(255, 255, 255, 0);
+  border: 1px solid #fe3b52;
+  border-radius: 25px;
+  color: #fe3b52;
+  cursor: pointer;
+}
+
+.activeGenreButton {
+  font-weight: bold;
+  background-color: #fe3b52;
+  color: white;
+}
+
